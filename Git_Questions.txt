@@ -10,5 +10,5 @@ I want to get changes that are in GitHub down to my machine.  How do I do that?
 * I want to get my local changes up to the repo on GitHub.  How do I do that?
   * GitHub desktop: ______
   * CLI: git add 
-	git commit -m
+	git commit -m 'did stuff'
 	git push
