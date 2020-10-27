@@ -1,0 +1,14 @@
+I want to get changes that are in GitHub down to my machine.  How do I do that?
+  * GitHub desktop: ______
+  * CLI: git pull
+* I want to get see what files changed in my local copy of a repo.  How do I do that?
+  * GitHub desktop: ______
+  * CLI: git status
+* I want to get see what contents (line by line) changed in my local copy of a repo.  How do I do that?
+  * GitHub desktop: ______
+  * CLI: git diff
+* I want to get my local changes up to the repo on GitHub.  How do I do that?
+  * GitHub desktop: ______
+  * CLI: git add 
+	git commit -m
+	git push
